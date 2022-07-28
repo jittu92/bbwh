@@ -1,0 +1,52 @@
+.wo-container {
+    width: 933px;
+    height: 1350px;
+    /* border: 1px solid black; */
+}
+.wo-header {
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+.wo-company-details {
+    padding-bottom: 7px;
+    font-weight: 700;
+}
+.wo-cd {
+    font-size: 15px;
+}
+.customer-details-table {
+    width: 100%;
+}
+.customer-details-table {
+    width: 100%;
+}
+.wo-description-table {
+    width: 100%;
+}
+.wo-part-list-table {
+    width: 100%;
+}
+.wo-description {
+    padding-top: 10px;
+}
+.wo-parts-list {
+    padding-top: 10px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tabe, tr, td {
+    padding: 7px;
+}
+.wo-table-heading {
+    background-color: #eaedf2;
+    font-weight: bold;
+}
+.wo-table-desc-heading {
+    background-color: #eaedf2;
+    font-weight: bold;
+    width: 221px;
+    height: 70px;
+}

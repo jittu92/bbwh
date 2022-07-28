@@ -1,0 +1,11 @@
+{
+  "name": "cryptappz/ciemail",
+  "description": "CI Email",
+  "autoload": {
+    "psr-4": {
+      "cryptappz\\CIEmail\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
