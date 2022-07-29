@@ -100,8 +100,8 @@ else{
 	$db['default'] = array(
 		'dsn' => '',
 		'hostname' => 'localhost',
-		'username' => 'root',
-		'password' => '',
+		'username' => 'bbhw',
+		'password' => 'L7@lxr727',
 		'database' => 'bbhw',
 		'dbdriver' => 'mysqli',
 		'dbprefix' => '',
