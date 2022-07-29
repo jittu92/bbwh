@@ -2,7 +2,7 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 // print_r('hello');
 // die();
-$route['default_controller'] = 'user/SearchController/index';
+$route['default_controller'] = 'admin/AuthController/index';
 
 
 
